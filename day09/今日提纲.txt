@@ -1,0 +1,17 @@
+1/mr的combiner
+
+2/mr的排序
+
+3/mr的shuffle
+
+4/mr与yarn
+
+5/mr运行模式
+
+6/mr实现join
+
+7/mr全局图
+
+8/mr的压缩
+
+
